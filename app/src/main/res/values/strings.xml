@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ارسال پیامک</string>
+    <string name="title_main">ارسال پیامک سریع</string>
+    <string name="subtitle_main">شماره موبایل مخاطب را وارد کنید</string>
+    <string name="hint_phone">شماره تلفن (مثلاً 09123456789)</string>
+    <string name="btn_ok">تایید و ارسال</string>
+    <string name="error_empty">لطفاً شماره تلفن را وارد کنید</string>
+    <string name="error_length">شماره تلفن باید دقیقاً ۱۱ رقم باشد</string>
+    <string name="error_digits_only">شماره تلفن فقط باید شامل عدد باشد</string>
+    <string name="sms_body_template">سلام\nموقعیت مکانی شرکت سامان کشت نصف جهان را از لینک زیر دنبال کنید\n\nhttps://arefkaramidev.github.io/Location-Sender/</string>
+</resources>
